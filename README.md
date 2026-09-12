@@ -21,7 +21,31 @@ Security cloud gen
 
 ## Contact me
 
-[![Click Me](https://shields.io)](https://your-link-here.com)
+[![Click Me](https://img.shields.io/badge/Security%20top%20-8A2BE2)](https://your-link-here.com)
 
-[![Live Demo](https://shields.io)](https://github.com/D1-20/PROJECTS_01)
+<a href="https://github.com">
+  <kbd> Click Here To Proceed </kbd>
+</a>
 
+<a href="https://github.com">
+  <button>Click Here To Proceed</button>
+</a>
+
+
+<a href="https://your-demo.com">
+  <img src="https://img.shields.io/badge/🚀%20View%20Demo-2ea44f?style=for-the-badge" alt="View Demo">
+</a>
+
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgithub.com%2Fbadges%2Fshields%2Fraw%2Fmaster%2Fpackage.json)
+
+
+<a href="https://www.w3schools.com/html/html_links.asp">
+  <img src="https://drive.google.com/file/d/1sMsFYtM6YOniCUcEz0n0TdciYaspLnlf/view?usp=sharing" alt="Click here" width="300">
+</a>
+
+
+
+
+- <a href="https://github.com/yourusername">
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="20" height="20" alt="GitHub">
+</a>
